@@ -88,12 +88,11 @@ figure img {
 
 @media screen and (max-width: 640px) {
     .card {
-        padding: 4rem 1rem;
+        padding: 3rem 1rem;
     }
     .text {
         padding: 2rem 1.7rem;
         height: 50%;
-        border: 1px solid black;
     }
     .text > div > h2 {
         font-size: 1.5rem;
